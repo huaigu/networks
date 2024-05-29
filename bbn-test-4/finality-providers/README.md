@@ -44,7 +44,7 @@ keys and submitting the required information to be included in the registry.
 ## 1. Create Finality Provider Keys
 
 Finality Provider BTC key generation is covered by steps 1-3 from
-[this guide](https://github.com/babylonchain/finality-provider/blob/ae30623a634450db81ce1755839754cc822bf5e5/docs/eots.md).
+[this guide](https://github.com/babylonchain/finality-provider/blob/dev/docs/eots.md).
 These steps describe how to set up the EOTS manager and generate the finality
 provider keys using it. In this phase, finality providers should only use the
 EOTS manager to generate their BTC keys and sign their finality provider
